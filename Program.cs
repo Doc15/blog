@@ -16,7 +16,7 @@ namespace PR_5
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Articles());
+            Application.Run(new login());
         }
     }
 }
